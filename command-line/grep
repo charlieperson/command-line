@@ -1,0 +1,2 @@
+look for things inside files. grep ThisIsWhatImLookingFor 
+Grep then finds each time that ThisIsWhatImLookingFor appears in the file and outputs it
